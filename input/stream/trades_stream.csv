@@ -1,0 +1,5 @@
+tradeId,tradeTime,traderId,instruments,side,quantity,price
+T1,2026-02-05 15:00:00,TraderA,INST1|INST2,BUY,100,50
+T2,2026-02-05 16:00:00,TraderB,INST3,SELL,200,100
+T3,2026-02-05 16:30:00,TraderA,INST1,BUY,50,55
+T4,2026-02-05 17:00:00,TraderB,INST3,SELL,10,1000

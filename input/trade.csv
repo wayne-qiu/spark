@@ -1,0 +1,5 @@
+tradeId,tradeTime,traderId,instrumentId,instrumentType,side,quantity,price,notional
+T1,2026-02-05T15:00:00,TraderA,INST1,Equity,BUY,100,50,5000
+T2,2026-02-05T16:00:00,TraderA,INST2,Bond,SELL,200,100,20000
+T3,2026-02-05T16:30:00,TraderB,INST1,Equity,BUY,50,55,2750
+T4,2026-02-05T17:00:00,TraderB,INST3,Derivative,SELL,10,1000,10000
